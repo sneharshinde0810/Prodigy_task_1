@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ritesh-r99/network-sniffer.git
+   git clone https://github.com/sneharshinde0810/network-sniffer.git
    ```
 
 2. Navigate to the project directory:
